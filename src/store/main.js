@@ -94,7 +94,7 @@ export default {
         },
         async getManageInfo ({ commit, state, dispatch }, payload = {}) {
             const { code, data } = await quRequest.send('/getManageInfo', payload);
-            if (code !== 200) {
+            if (code != 200) {
                 return;
             }
             commit('updateManageInfo', data);
