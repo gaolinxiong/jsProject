@@ -10,10 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cde8e91c-5b5e-4f46-921f-f0f7f56b3064" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/main.js" afterDir="false" />
-    </list>
+    <list default="true" id="cde8e91c-5b5e-4f46-921f-f0f7f56b3064" name="默认更改列表" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606116584780</updated>
-      <workItem from="1606116585817" duration="841000" />
+      <workItem from="1606116585817" duration="1005000" />
     </task>
     <servers />
   </component>
