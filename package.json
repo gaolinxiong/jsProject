@@ -74,6 +74,7 @@
     "vue-property-decorator": "^9.1.2",
     "vue-router": "^3.1.6",
     "vue-socket.io": "^3.0.10",
+    "vuecomponentstemplate": "^1.0.0",
     "vuex": "^3.2.0"
   },
   "engines": {
